@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alirezabaratian
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on fun open-source projects
 - 📫 Email: alireza.baratian@gmail.com
 - ⚡ Fun fact: Linux name was born of a mistake by the FTP server administrator!
