@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 
 - 🔐 I work as a **Web Application Penetration Tester**, finding and helping fix security vulnerabilities before attackers do.
-- 💻 Age 27, based in... *Isfahan, Iran.*
+- 💻 Age 27, based in *Isfahan, Iran.*
 - 🛠️ Outside of work, I build side-projects mostly in **Node.js** and **Python**.
 - 🌱 Currently exploring new tools and techniques in both offensive security and backend development.
 - ⚡ Fun fact: I spend my day breaking apps and my nights building them.
